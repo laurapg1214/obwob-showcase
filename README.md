@@ -2,8 +2,6 @@
 
 Welcome to the **obwob** showcase repository. This repository demonstrates key features and technical architecture of obwob, a proprietary application designed for event coordination and participant engagement, intended for future commercialization. 
 
-This repository is designed to provide recruiters and collaborators with an overview of the app's capabilities.
-
 ## Purpose
 The purpose of this repository is to demonstrate the capabilities of the application to potential employers, collaborators, and recruiters. It includes examples and partial implementations of functionality but does not contain the full codebase or deployment-ready materials for the application.
 
